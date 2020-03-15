@@ -1,0 +1,3 @@
+Hello Scala Spark
+Hello World Hive
+Hello Hadoop
